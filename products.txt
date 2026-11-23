@@ -1,0 +1,4 @@
+ProductName | Price
+mouse | 300
+keyboard | 500
+monitor | 7000
